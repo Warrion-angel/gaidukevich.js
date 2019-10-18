@@ -1,13 +1,10 @@
-<script> 
 let money;
-let income;
-let addExpenses;
-let deposit;
-let mission;
-let period;
+income;
+addExpenses;
+deposit;
+mission;
+period;
 
 alert("Hello world!"); 
 
 console.log(9);
-
-</script>

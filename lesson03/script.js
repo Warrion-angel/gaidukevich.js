@@ -31,11 +31,11 @@ console.log(loss);
 
 
  if (budgetDay  < 300) { // ветвление
-   console.log("Высокий уровень дохода");
+   console.log("Низкий  уровень доход");
  }    else if (budgetDay <= 800) {
-   console.log("Средний уровень дохода");
+   console.log(" Средний уровень дохода");
  }     else   {      
-   console.log("Что -то пошло не так");
+   console.log("Высокий уровень дохода");
  }
 
 
